@@ -1,0 +1,2 @@
+"""MEMORYMADE creative studio package."""
+
