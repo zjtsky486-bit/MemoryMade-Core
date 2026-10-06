@@ -1,0 +1,14 @@
+torch==2.7.1+cu128
+transformers==4.40.2
+numpy==1.26.4
+pillow==11.3.0
+omegaconf==2.3.0
+einops==0.7.0
+trimesh==4.6.13
+rembg[cpu]==2.0.67
+scikit-image==0.25.2
+scipy==1.15.3
+numba==0.61.2
+llvmlite==0.44.0
+opencv-python-headless==4.11.0.86
+imageio==2.37.0
